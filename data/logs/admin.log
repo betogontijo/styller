@@ -36,3 +36,5 @@
 [13/9/2020 6:20:3] (Error - void ServicePort::open(IPAddressList, uint16_t)) NETWORK: Address already in use
 [13/9/2020 6:21:28] (Error - void ServicePort::open(IPAddressList, uint16_t)) NETWORK: Address already in use
 [13/9/2020 6:31:21] (Error - void ServicePort::open(IPAddressList, uint16_t)) NETWORK: Address already in use
+[13/9/2020 18:7:15] (Error - void ServicePort::open(IPAddressList, uint16_t)) NETWORK: Address already in use
+[13/9/2020 18:23:52] (Error - void ServicePort::open(IPAddressList, uint16_t)) NETWORK: Address already in use
