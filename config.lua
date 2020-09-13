@@ -162,7 +162,7 @@
 	msqlHost = "127.0.0.1"
 	msqlPort = 3306
 	mysqlUser = "root"
-	mysqlPass = "beto7913456"
+	mysqlPass = ""
 	mysqlDatabase = "otserv"
 	mysqlSock = ""
 	sqlFile = "Styller.s3db"
