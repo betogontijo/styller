@@ -784,6 +784,9 @@
     <monster name="Dragon Lord" x="-6" y="5" z="5" spawntime="60"/>
     <monster name="Dragon Lord" x="2" y="5" z="5" spawntime="60"/>
   </spawn>
+  <spawn centerx="198" centery="228" centerz="5" radius="1">
+    <npc name="Donald" x="-1" y="0" z="5" spawntime="60"/>
+  </spawn>
   <spawn centerx="173" centery="233" centerz="5" radius="1">
     <monster name="Target" x="-1" y="-1" z="5" spawntime="60"/>
     <monster name="Target" x="1" y="-1" z="5" spawntime="60"/>
@@ -1464,11 +1467,14 @@
     <npc name="Dark Rodo" x="1" y="0" z="6" spawntime="60"/>
   </spawn>
   <spawn centerx="167" centery="49" centerz="6" radius="1">
-    <npc name="Diesel" x="0" y="-1" z="6" spawntime="60"/>
+    <npc name="Felix" x="0" y="-1" z="6" spawntime="0"/>
   </spawn>
   <spawn centerx="222" centery="56" centerz="6" radius="1">
     <monster name="Crystal Spider" x="-1" y="0" z="6" spawntime="20"/>
     <monster name="Winter Wolf" x="1" y="0" z="6" spawntime="20"/>
+  </spawn>
+  <spawn centerx="131" centery="57" centerz="6" radius="1">
+    <npc name="Donald" x="1" y="0" z="6" spawntime="60"/>
   </spawn>
   <spawn centerx="61" centery="58" centerz="6" radius="7">
     <monster name="Warlock" x="1" y="3" z="6" spawntime="60"/>
@@ -1838,6 +1844,9 @@
   <spawn centerx="115" centery="246" centerz="6" radius="5">
     <monster name="Hydra" x="3" y="0" z="6" spawntime="60"/>
     <monster name="Hydra" x="-2" y="4" z="6" spawntime="60"/>
+  </spawn>
+  <spawn centerx="192" centery="246" centerz="6" radius="1">
+    <npc name="Donald" x="0" y="1" z="6" spawntime="60"/>
   </spawn>
   <spawn centerx="173" centery="248" centerz="6" radius="1">
     <monster name="Target" x="-1" y="-1" z="6" spawntime="60"/>
@@ -2679,6 +2688,9 @@
     <monster name="Wasp" x="-1" y="-3" z="7" spawntime="60"/>
     <monster name="Wolf" x="0" y="3" z="7" spawntime="60"/>
   </spawn>
+  <spawn centerx="159" centery="41" centerz="7" radius="1">
+    <npc name="Raphael" x="0" y="1" z="7" spawntime="60"/>
+  </spawn>
   <spawn centerx="358" centery="41" centerz="7" radius="1">
     <monster name="Nightstalker" x="1" y="-1" z="7" spawntime="60"/>
     <monster name="Zombie" x="1" y="0" z="7" spawntime="60"/>
@@ -2687,17 +2699,14 @@
     <monster name="Nightstalker" x="-1" y="0" z="7" spawntime="60"/>
     <monster name="Zombie" x="1" y="0" z="7" spawntime="60"/>
   </spawn>
-  <spawn centerx="160" centery="43" centerz="7" radius="1">
-    <npc name="Raphael" x="0" y="1" z="7" spawntime="20"/>
-  </spawn>
-  <spawn centerx="144" centery="44" centerz="7" radius="1">
-    <npc name="Old Jeff" x="0" y="0" z="7" spawntime="20"/>
+  <spawn centerx="145" centery="44" centerz="7" radius="1">
+    <npc name="Old Jeff" x="-1" y="0" z="7" spawntime="20"/>
   </spawn>
   <spawn centerx="363" centery="44" centerz="7" radius="1">
     <monster name="Zombie" x="1" y="0" z="7" spawntime="60"/>
   </spawn>
-  <spawn centerx="160" centery="48" centerz="7" radius="1">
-    <npc name="Hagar" x="0" y="1" z="7" spawntime="60"/>
+  <spawn centerx="162" centery="45" centerz="7" radius="1">
+    <npc name="Hagar" x="-1" y="1" z="7" spawntime="60"/>
   </spawn>
   <spawn centerx="166" centery="48" centerz="7" radius="1">
     <npc name="Aldo" x="0" y="0" z="7" spawntime="20"/>
@@ -2707,6 +2716,9 @@
   </spawn>
   <spawn centerx="362" centery="48" centerz="7" radius="1">
     <monster name="Zombie" x="1" y="0" z="7" spawntime="60"/>
+  </spawn>
+  <spawn centerx="115" centery="49" centerz="7" radius="1">
+    <npc name="Dove" x="0" y="-1" z="7" spawntime="60"/>
   </spawn>
   <spawn centerx="132" centery="49" centerz="7" radius="1">
     <npc name="Dufi" x="1" y="0" z="7" spawntime="60"/>
@@ -2723,9 +2735,6 @@
   </spawn>
   <spawn centerx="145" centery="52" centerz="7" radius="1">
     <npc name="Riona" x="0" y="-1" z="7" spawntime="10"/>
-  </spawn>
-  <spawn centerx="155" centery="52" centerz="7" radius="1">
-    <npc name="Jax" x="0" y="-1" z="7" spawntime="60"/>
   </spawn>
   <spawn centerx="234" centery="52" centerz="7" radius="5">
     <monster name="Winter Wolf" x="-2" y="-4" z="7" spawntime="60"/>
@@ -2745,14 +2754,14 @@
   <spawn centerx="88" centery="55" centerz="7" radius="1">
     <npc name="Priest" x="-1" y="0" z="7" spawntime="10"/>
   </spawn>
-  <spawn centerx="151" centery="57" centerz="7" radius="1">
-    <npc name="Donald" x="0" y="-1" z="7" spawntime="20"/>
+  <spawn centerx="158" centery="55" centerz="7" radius="1">
+    <npc name="Jax" x="0" y="-1" z="7" spawntime="60"/>
   </spawn>
-  <spawn centerx="159" centery="57" centerz="7" radius="1">
-    <npc name="Felix" x="-1" y="0" z="7" spawntime="60"/>
+  <spawn centerx="125" centery="56" centerz="7" radius="1">
+    <npc name="Diesel" x="-1" y="1" z="7" spawntime="60"/>
   </spawn>
-  <spawn centerx="133" centery="58" centerz="7" radius="1">
-    <npc name="Rashid" x="-1" y="-1" z="7" spawntime="60"/>
+  <spawn centerx="132" centery="57" centerz="7" radius="1">
+    <npc name="Rashid" x="0" y="1" z="7" spawntime="60"/>
   </spawn>
   <spawn centerx="139" centery="58" centerz="7" radius="1">
     <npc name="Scrutinon" x="0" y="-1" z="7" spawntime="20"/>
@@ -2776,9 +2785,6 @@
   </spawn>
   <spawn centerx="386" centery="61" centerz="7" radius="1">
     <monster name="Nightstalker" x="1" y="0" z="7" spawntime="60"/>
-  </spawn>
-  <spawn centerx="106" centery="62" centerz="7" radius="1">
-    <npc name="Dove" x="0" y="-1" z="7" spawntime="60"/>
   </spawn>
   <spawn centerx="375" centery="62" centerz="7" radius="1">
     <monster name="Zombie" x="1" y="0" z="7" spawntime="60"/>
@@ -2973,9 +2979,6 @@
     <monster name="Cyclops" x="-4" y="-3" z="7" spawntime="60"/>
     <monster name="Cyclops" x="1" y="0" z="7" spawntime="60"/>
   </spawn>
-  <spawn centerx="49" centery="100" centerz="7" radius="1">
-    <npc name="Old Jumper" x="1" y="1" z="7" spawntime="20"/>
-  </spawn>
   <spawn centerx="368" centery="100" centerz="7" radius="1">
     <monster name="Nightstalker" x="0" y="-1" z="7" spawntime="60"/>
   </spawn>
@@ -3011,9 +3014,6 @@
   </spawn>
   <spawn centerx="377" centery="107" centerz="7" radius="1">
     <monster name="Zombie" x="1" y="0" z="7" spawntime="60"/>
-  </spawn>
-  <spawn centerx="101" centery="108" centerz="7" radius="1">
-    <npc name="Old Jumper" x="1" y="0" z="7" spawntime="20"/>
   </spawn>
   <spawn centerx="370" centery="108" centerz="7" radius="1">
     <monster name="Zombie" x="-1" y="1" z="7" spawntime="60"/>
@@ -3351,9 +3351,6 @@
   <spawn centerx="132" centery="173" centerz="7" radius="1">
     <npc name="Betoven" x="1" y="0" z="7" spawntime="60"/>
   </spawn>
-  <spawn centerx="173" centery="173" centerz="7" radius="1">
-    <npc name="Old Jumper" x="0" y="0" z="7" spawntime="20"/>
-  </spawn>
   <spawn centerx="353" centery="173" centerz="7" radius="1">
     <monster name="Lizard Legionnaire" x="-1" y="-1" z="7" spawntime="10"/>
   </spawn>
@@ -3466,9 +3463,6 @@
   </spawn>
   <spawn centerx="1081" centery="189" centerz="7" radius="1">
     <monster name="Infernalist" x="0" y="1" z="7" spawntime="20"/>
-  </spawn>
-  <spawn centerx="303" centery="190" centerz="7" radius="1">
-    <npc name="Old Jumper" x="1" y="0" z="7" spawntime="20"/>
   </spawn>
   <spawn centerx="1070" centery="190" centerz="7" radius="1">
     <monster name="Infernalist" x="0" y="-1" z="7" spawntime="20"/>
@@ -3771,9 +3765,6 @@
   <spawn centerx="60" centery="436" centerz="7" radius="1">
     <monster name="Demon" x="1" y="1" z="7" spawntime="20"/>
   </spawn>
-  <spawn centerx="199" centery="439" centerz="7" radius="1">
-    <npc name="Old Jumper" x="0" y="0" z="7" spawntime="20"/>
-  </spawn>
   <spawn centerx="55" centery="443" centerz="7" radius="1">
     <monster name="Fire Devil" x="0" y="0" z="7" spawntime="60"/>
   </spawn>
@@ -3902,9 +3893,6 @@
   <spawn centerx="831" centery="571" centerz="7" radius="5">
     <monster name="Frost Dragon" x="1" y="-1" z="7" spawntime="60"/>
     <monster name="Frost Dragon" x="-3" y="0" z="7" spawntime="60"/>
-  </spawn>
-  <spawn centerx="848" centery="572" centerz="7" radius="1">
-    <npc name="Old Jumper" x="1" y="-1" z="7" spawntime="20"/>
   </spawn>
   <spawn centerx="813" centery="575" centerz="7" radius="5">
     <monster name="Frost Dragon" x="-1" y="-3" z="7" spawntime="60"/>
@@ -6281,9 +6269,6 @@
   <spawn centerx="266" centery="98" centerz="8" radius="5">
     <monster name="Crypt shambler" x="2" y="3" z="8" spawntime="60"/>
   </spawn>
-  <spawn centerx="168" centery="99" centerz="8" radius="1">
-    <npc name="Old Jumper" x="-1" y="0" z="8" spawntime="20"/>
-  </spawn>
   <spawn centerx="60" centery="100" centerz="8" radius="5">
     <monster name="Warlock" x="0" y="-3" z="8" spawntime="60"/>
   </spawn>
@@ -6443,9 +6428,6 @@
     <monster name="Mummy" x="-5" y="-3" z="8" spawntime="60"/>
     <monster name="Green Djinn" x="-5" y="2" z="8" spawntime="60"/>
     <monster name="Mummy" x="0" y="5" z="8" spawntime="60"/>
-  </spawn>
-  <spawn centerx="65" centery="138" centerz="8" radius="1">
-    <npc name="Old Jumper" x="1" y="0" z="8" spawntime="60"/>
   </spawn>
   <spawn centerx="397" centery="138" centerz="8" radius="8">
     <monster name="Terramite" x="0" y="-2" z="8" spawntime="10"/>
@@ -10662,29 +10644,14 @@
   <spawn centerx="180" centery="44" centerz="9" radius="1">
     <monster name="Hydra" x="0" y="1" z="9" spawntime="60"/>
   </spawn>
-  <spawn centerx="184" centery="44" centerz="9" radius="1">
-    <monster name="Warlock" x="0" y="1" z="9" spawntime="60"/>
-  </spawn>
-  <spawn centerx="188" centery="44" centerz="9" radius="1">
-    <monster name="Demon" x="0" y="1" z="9" spawntime="60"/>
-  </spawn>
   <spawn centerx="192" centery="44" centerz="9" radius="1">
     <monster name="Frost Dragon" x="0" y="1" z="9" spawntime="60"/>
   </spawn>
   <spawn centerx="196" centery="44" centerz="9" radius="1">
     <monster name="Hydra" x="0" y="1" z="9" spawntime="20"/>
   </spawn>
-  <spawn centerx="200" centery="44" centerz="9" radius="1">
-    <monster name="Demon" x="0" y="1" z="9" spawntime="60"/>
-  </spawn>
-  <spawn centerx="204" centery="44" centerz="9" radius="1">
-    <monster name="Hellfire Fighter" x="0" y="1" z="9" spawntime="60"/>
-  </spawn>
   <spawn centerx="208" centery="44" centerz="9" radius="1">
     <monster name="Dragon Lord" x="0" y="1" z="9" spawntime="30"/>
-  </spawn>
-  <spawn centerx="212" centery="44" centerz="9" radius="1">
-    <monster name="Apocalypse" x="0" y="1" z="9" spawntime="60"/>
   </spawn>
   <spawn centerx="216" centery="44" centerz="9" radius="1">
     <monster name="Demon" x="0" y="1" z="9" spawntime="60"/>
@@ -10696,38 +10663,53 @@
     <monster name="Quara Hydromancer" x="0" y="-1" z="9" spawntime="60"/>
     <monster name="Sea Serpent" x="4" y="-1" z="9" spawntime="60"/>
   </spawn>
-  <spawn centerx="180" centery="50" centerz="9" radius="1">
-    <npc name="Jonny" x="-1" y="0" z="9" spawntime="60"/>
+  <spawn centerx="185" centery="45" centerz="9" radius="1">
+    <monster name="Warlock" x="-1" y="0" z="9" spawntime="60"/>
+  </spawn>
+  <spawn centerx="189" centery="45" centerz="9" radius="1">
+    <monster name="Demon" x="-1" y="0" z="9" spawntime="60"/>
+  </spawn>
+  <spawn centerx="201" centery="45" centerz="9" radius="1">
+    <monster name="Demon" x="-1" y="0" z="9" spawntime="60"/>
+  </spawn>
+  <spawn centerx="205" centery="45" centerz="9" radius="1">
+    <monster name="Hellfire Fighter" x="-1" y="0" z="9" spawntime="60"/>
+  </spawn>
+  <spawn centerx="213" centery="45" centerz="9" radius="1">
+    <monster name="Apocalypse" x="-1" y="0" z="9" spawntime="60"/>
+  </spawn>
+  <spawn centerx="181" centery="50" centerz="9" radius="1">
+    <npc name="Jonny" x="-1" y="-1" z="9" spawntime="60"/>
   </spawn>
   <spawn centerx="116" centery="54" centerz="9" radius="5">
     <monster name="Rotworm" x="1" y="2" z="9" spawntime="60"/>
   </spawn>
-  <spawn centerx="187" centery="56" centerz="9" radius="1">
-    <monster name="Cyclops" x="0" y="0" z="9" spawntime="60"/>
+  <spawn centerx="181" centery="56" centerz="9" radius="1">
+    <monster name="Sea Serpent" x="-1" y="0" z="9" spawntime="60"/>
   </spawn>
-  <spawn centerx="191" centery="56" centerz="9" radius="1">
-    <monster name="Hero" x="0" y="0" z="9" spawntime="20"/>
+  <spawn centerx="185" centery="56" centerz="9" radius="1">
+    <monster name="Giant Spider" x="-1" y="0" z="9" spawntime="20"/>
   </spawn>
-  <spawn centerx="195" centery="56" centerz="9" radius="1">
-    <monster name="Blue Djinn" x="0" y="0" z="9" spawntime="20"/>
+  <spawn centerx="189" centery="56" centerz="9" radius="1">
+    <monster name="Cyclops" x="-1" y="0" z="9" spawntime="60"/>
   </spawn>
-  <spawn centerx="199" centery="56" centerz="9" radius="1">
-    <monster name="Dragon Lord" x="0" y="0" z="9" spawntime="60"/>
+  <spawn centerx="193" centery="56" centerz="9" radius="1">
+    <monster name="Hero" x="-1" y="0" z="9" spawntime="20"/>
   </spawn>
-  <spawn centerx="203" centery="56" centerz="9" radius="1">
-    <monster name="Wyrm" x="0" y="0" z="9" spawntime="60"/>
+  <spawn centerx="197" centery="56" centerz="9" radius="1">
+    <monster name="Blue Djinn" x="-1" y="0" z="9" spawntime="20"/>
   </spawn>
-  <spawn centerx="207" centery="56" centerz="9" radius="1">
-    <monster name="Behemoth" x="0" y="0" z="9" spawntime="60"/>
+  <spawn centerx="201" centery="56" centerz="9" radius="1">
+    <monster name="Dragon Lord" x="-1" y="0" z="9" spawntime="60"/>
+  </spawn>
+  <spawn centerx="205" centery="56" centerz="9" radius="1">
+    <monster name="Wyrm" x="-1" y="0" z="9" spawntime="60"/>
+  </spawn>
+  <spawn centerx="209" centery="56" centerz="9" radius="1">
+    <monster name="Behemoth" x="-1" y="0" z="9" spawntime="60"/>
   </spawn>
   <spawn centerx="518" centery="56" centerz="9" radius="1">
     <monster name="Demon" x="1" y="0" z="9" spawntime="60"/>
-  </spawn>
-  <spawn centerx="179" centery="57" centerz="9" radius="1">
-    <monster name="Sea Serpent" x="0" y="-1" z="9" spawntime="60"/>
-  </spawn>
-  <spawn centerx="183" centery="57" centerz="9" radius="1">
-    <monster name="Giant Spider" x="0" y="-1" z="9" spawntime="20"/>
   </spawn>
   <spawn centerx="537" centery="57" centerz="9" radius="1">
     <monster name="Demon" x="0" y="0" z="9" spawntime="60"/>
@@ -14038,9 +14020,6 @@
     <monster name="Blightwalker" x="0" y="-1" z="11" spawntime="60"/>
     <monster name="Hand of Cursed Fate" x="1" y="-1" z="11" spawntime="60"/>
     <monster name="Phantasm" x="1" y="0" z="11" spawntime="60"/>
-  </spawn>
-  <spawn centerx="322" centery="65" centerz="11" radius="1">
-    <npc name="Old Jumper" x="-1" y="0" z="11" spawntime="20"/>
   </spawn>
   <spawn centerx="208" centery="69" centerz="11" radius="15">
     <monster name="Hellhound" x="10" y="-10" z="11" spawntime="60"/>
