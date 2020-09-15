@@ -1,2 +1,7 @@
 #!/bin/bash
-nohup ./theforgottenserver <<< y 2>&1 >> /var/log/styller.log &
+PID=$(pidof theforgottenserver)
+if [ -z "$PID" ]
+then
+	cd /otserv
+	./theforgottenserver <<< y
+fi

@@ -11,7 +11,7 @@
 		tibiaClassicSlots = true
 		useCapSystem = true
 		enableCast = true
-		useMultiClient = false
+		useMultiClient = true
 		savePlayerData = true
 		houseSkipInitialRent = true
 		houseProtection = true
@@ -34,7 +34,7 @@
 		defaultDepotSizefree = 500
 
 		-- Spawns
-		noDisableBlockRespawn = true
+		noDisableBlockRespawn = false
 		monstersGoBackToSpawn = false
 
 		-- Summons
@@ -111,7 +111,7 @@
 	pzLocked = 60 * 1000
 	huntingDuration = 60 * 1000
 	criticalHitChance = 7
-	criticalHitMultiplier = 1
+	criticalHitMultiplier = 1.05
 	displayCriticalHitNotify = true
 	removeWeaponAmmunition = false
 	removeWeaponCharges = true
@@ -119,7 +119,7 @@
 	whiteSkullTime = 3 * 60 * 1000
 	noDamageToSameLookfeet = false
 	showHealingDamage = true
-	showHealingDamageForMonsters = false
+	showHealingDamageForMonsters = true
 	fieldOwnershipDuration = 5 * 1000
 	stopAttackingAtExit = false
 	loginProtectionPeriod = 10 * 1000
@@ -144,7 +144,7 @@
 	maxPlayers = 175	
 	motd = "Bem vindo ao Best Styller! War System: !infowar"
 	displayOnOrOffAtCharlist = false
-	onePlayerOnlinePerAccount = true
+	onePlayerOnlinePerAccount = false
 	allowClones = false
 	serverName = "Styller"
 	loginMessage = "Bem vindo ao Best Styller! War System: !infowar"
@@ -263,7 +263,7 @@
 	monsterLootMessageType = 25
 
 	-- Ghost mode
-	ghostModeInvisibleEffect = false
+	ghostModeInvisibleEffect = true
 	ghostModeSpellEffects = true
 
 	-- Limits

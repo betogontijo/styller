@@ -275,6 +275,14 @@
 		<vocation id="6"/>
 		<vocation id="7"/>
 	</instant>
+	<instant name="Utamo Ina" words="utamo ina" lvl="14" mana="50" aggressive="0" selftarget="1" exhaustion="1000" needlearn="0" event="script" value="support/utamo ina.lua">
+                <vocation id="1"/>
+                <vocation id="2"/>
+                <vocation id="3"/>
+                <vocation id="5"/>
+                <vocation id="6"/>
+                <vocation id="7"/>
+        </instant>
 	<instant name="Haste" words="utani hur" lvl="14" mana="60" prem="1" aggressive="0" selftarget="1" exhaustion="1000" needlearn="0" event="script" value="support/haste.lua">
 		<vocation id="1"/>
 		<vocation id="2"/>
