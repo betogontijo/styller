@@ -19,7 +19,7 @@
 <event type="login" name="MsgNpcShop" event="script" value="npc_shop.lua"/>
     <event type="kill" name="PlayerKill" script="arenakill.lua"/>
 	<event type="PrepareDeath" name="pvparena" script="pvparena.lua"/>
-	<event type="attack" name="staminafiller" script="staminafiller.lua"/>
+	<!--	<event type="attack" name="staminafiller" script="staminafiller.lua"/> -->
 	<event type="login" name="FimVip" event="script" value="vip2.lua"/>
 	<event type="login" name="MultipleExp" event="script" value="MultipleExpLogin.lua"/>	<event type="death" name="incendio" script="incendioMonster.lua"/>
 	<event type="preparedeath" name="ProtectLevel" event="script" value="levelprotection.lua"/>
@@ -49,6 +49,6 @@
 	<event type="logout" name="offtrain_PlayerLogout" event="script" value="offtrain_logout.lua"/>
 <event type="advance" name="hmup" event="script" value="hmup.lua"/>
 <event type="advance" name="EvoluirStaff" event="script" value="evoluirwand.lua"/>
-<event type="kill" name="LootEventKill" event="script" value="autoloot.lua"/>
-<event type="login" name="LoginAloot" event="script" value="autoloot.lua"/>
+<!-- <event type="kill" name="LootEventKill" event="script" value="autoloot.lua"/>
+<event type="login" name="LoginAloot" event="script" value="autoloot.lua"/> -->
 </creaturescripts>
