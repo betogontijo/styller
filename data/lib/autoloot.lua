@@ -165,16 +165,18 @@ function corpseRetireItems(cid, pos)
 	if check == true then
 		local items = getContainerItems(tile.uid)
 		for i,x in pairs(items) do
-			if isInArray(getPlayerStorageTable(cid, info.storages[1]), tonumber(x.itemid)) or getPlayerStorageValue(cid, info.storages[2]) > 0 and isInArray({2148,2152,2160},tonumber(x.itemid)) then
-				if isItemStackable(x.itemid) then
-					doPlayerAddItemStacking(cid, x.itemid, x.type)
-					if info.AutomaticDeposit == true and isInArray({2148,2152,2160}, tonumber(x.itemid)) then
-						AutomaticDeposit(cid,x.itemid,x.type)
+			if storages then 
+				if isInArray(getPlayerStorageTable(cid, info.storages[1]), tonumber(x.itemid)) or getPlayerStorageValue(cid, info.storages[2]) > 0 and isInArray({2148,2152,2160},tonumber(x.itemid)) then
+					if isItemStackable(x.itemid) then
+						doPlayerAddItemStacking(cid, x.itemid, x.type)
+						if info.AutomaticDeposit == true and isInArray({2148,2152,2160}, tonumber(x.itemid)) then
+							AutomaticDeposit(cid,x.itemid,x.type)
+						end
+					else
+						doPlayerAddItem(cid, x.itemid)
 					end
-				else
-					doPlayerAddItem(cid, x.itemid)
+					doRemoveItem(x.uid)
 				end
-				doRemoveItem(x.uid)
 			end
 		end
 	end
