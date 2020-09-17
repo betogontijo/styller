@@ -2881,8 +2881,8 @@
   <spawn centerx="132" centery="57" centerz="7" radius="1">
     <npc name="Rashid" x="0" y="1" z="7" spawntime="60"/>
   </spawn>
-  <spawn centerx="139" centery="57" centerz="7" radius="1">
-    <npc name="Scrutinon" x="0" y="1" z="7" spawntime="60"/>
+  <spawn centerx="140" centery="57" centerz="7" radius="1">
+    <npc name="Scrutinon" x="-1" y="0" z="7" spawntime="60"/>
   </spawn>
   <spawn centerx="223" centery="60" centerz="7" radius="1">
     <monster name="Winter Wolf" x="1" y="1" z="7" spawntime="60"/>
@@ -6440,11 +6440,6 @@
     <monster name="Sea Serpent" x="-5" y="4" z="8" spawntime="60"/>
     <monster name="Quara Predator" x="2" y="5" z="8" spawntime="60"/>
   </spawn>
-  <spawn centerx="151" centery="31" centerz="8" radius="5">
-    <monster name="Wasp" x="0" y="-2" z="8" spawntime="60"/>
-    <monster name="Wasp" x="1" y="-1" z="8" spawntime="60"/>
-    <monster name="Wasp" x="-1" y="1" z="8" spawntime="60"/>
-  </spawn>
   <spawn centerx="445" centery="31" centerz="8" radius="5">
     <monster name="Quara Hydromancer" x="2" y="-2" z="8" spawntime="60"/>
     <monster name="Quara Mantassin" x="5" y="2" z="8" spawntime="60"/>
@@ -6499,13 +6494,8 @@
     <monster name="Dwarf Guard" x="1" y="1" z="8" spawntime="10"/>
     <monster name="Dwarf Soldier" x="-4" y="3" z="8" spawntime="10"/>
   </spawn>
-  <spawn centerx="138" centery="41" centerz="8" radius="4">
-    <monster name="Poison spider" x="0" y="-3" z="8" spawntime="60"/>
-    <monster name="Bug" x="0" y="0" z="8" spawntime="10"/>
-    <monster name="Poison spider" x="-2" y="1" z="8" spawntime="60"/>
-  </spawn>
-  <spawn centerx="149" centery="41" centerz="8" radius="5">
-    <monster name="Poison spider" x="-4" y="0" z="8" spawntime="60"/>
+  <spawn centerx="137" centery="41" centerz="8" radius="4">
+    <monster name="Poison spider" x="-1" y="1" z="8" spawntime="60"/>
   </spawn>
   <spawn centerx="161" centery="42" centerz="8" radius="5">
     <monster name="Wasp" x="1" y="-3" z="8" spawntime="60"/>
@@ -6517,11 +6507,6 @@
     <monster name="Sea Serpent" x="2" y="3" z="8" spawntime="60"/>
   </spawn>
   <spawn centerx="108" centery="45" centerz="8" radius="5"/>
-  <spawn centerx="140" centery="48" centerz="8" radius="4">
-    <monster name="Bug" x="-2" y="-1" z="8" spawntime="60"/>
-    <monster name="Bug" x="0" y="0" z="8" spawntime="10"/>
-    <monster name="Bug" x="0" y="1" z="8" spawntime="60"/>
-  </spawn>
   <spawn centerx="432" centery="48" centerz="8" radius="5">
     <monster name="Sea Serpent" x="5" y="-4" z="8" spawntime="60"/>
     <monster name="Quara Constrictor" x="4" y="-3" z="8" spawntime="60"/>
