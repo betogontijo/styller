@@ -51,10 +51,10 @@
 	<talkaction log="yes" access="3" words="/wp" event="script" value="waypoints.lua"/>
 
 	<!-- Senior Tutors -->
-	<talkaction log="yes" words="/notations" access="2" event="script" value="notations.lua"/>
-	<talkaction log="yes" words="/info" access="2" event="script" value="playerinfo.lua"/>
-	<talkaction log="yes" words="/gethouse" access="2" event="script" value="gethouse.lua"/>
-	<talkaction log="yes" words="/baninfo" access="2" event="function" value="banishmentInfo"/>
+	<talkaction log="yes" words="/notations" access="3" event="script" value="notations.lua"/>
+	<talkaction log="yes" words="/info" access="3" event="script" value="playerinfo.lua"/>
+	<talkaction log="yes" words="/gethouse" access="3" event="script" value="gethouse.lua"/>
+	<talkaction log="yes" words="/baninfo" access="3" event="function" value="banishmentInfo"/>
 
 	<!-- Tutors -->
 	<talkaction log="yes" access="1" words="/b" event="script" value="broadcast.lua"/>
