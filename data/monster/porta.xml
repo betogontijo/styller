@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <monster name="Castle" nameDescription="a Gate" race="undead" experience="25000" speed="0" manacost="0">
-<health now="400000" max="400000"/>
+<health now="200000" max="200000"/>
 <look typeex="9408"/>
 <targetchange interval="5000" chance="20"/>
 <strategy attack="100" defense="0"/>
