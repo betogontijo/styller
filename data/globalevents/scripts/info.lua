@@ -2,13 +2,14 @@ function onThink(interval, lastExecution)
   -- Configurações
     local cor = 22 -- Defina a cor da mensagem (22 = branco)
     local mensagens ={
-[[Styller War - OT:   
+[[PKdores,abrimos um Servidor [DISCORD],
+Para maior interaçao, acesse o link:
+http://discord.gg/J7fEdPS
 Rank Frags: !rankfrags
 Cast: !cast on
 Exp: !expinfo
 Inimigos Online: !warmembers
 Guild Broadcast: /guild
-Coloque seus itens a venda no NPC Diesel!
 ]]
 }
 
