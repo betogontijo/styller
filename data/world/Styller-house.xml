@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <houses>
   <house name="Tower 1" houseid="1" entryx="156" entryy="107" entryz="7" rent="0" townid="1" size="99"/>
-  <house name="GuildHouse Street" houseid="6" entryx="190" entryy="42" entryz="7" rent="0" guildhall="1" townid="1" size="44"/>
-  <house name="Heavy Depot House" houseid="42" entryx="130" entryy="61" entryz="7" rent="0" townid="1" size="35"/>
+  <house name="GuildHouse Street" houseid="6" entryx="190" entryy="42" entryz="7" rent="0" guildhall="1" townid="1" size="42"/>
+  <house name="Heavy Depot House" houseid="42" entryx="130" entryy="61" entryz="7" rent="0" townid="1" size="33"/>
   <house name="Heavy Depot House II" houseid="43" entryx="130" entryy="67" entryz="6" rent="0" townid="1" size="57"/>
   <house name="Port house I" houseid="56" entryx="124" entryy="67" entryz="7" rent="0" townid="1" size="145"/>
   <house name="Depot House III" houseid="91" entryx="128" entryy="53" entryz="5" rent="6578" townid="1" size="32"/>
@@ -16,10 +16,10 @@
   <house name="Blue House VI" houseid="125" entryx="507" entryy="75" entryz="11" rent="0" townid="4" size="24"/>
   <house name="Blue House VII" houseid="126" entryx="515" entryy="101" entryz="12" rent="0" townid="4" size="18"/>
   <house name="Blue House XX" houseid="128" entryx="512" entryy="101" entryz="11" rent="0" townid="4" size="31"/>
-  <house name="Blood House I" houseid="129" entryx="189" entryy="34" entryz="7" rent="0" townid="1" size="44"/>
-  <house name="Blood House V" houseid="133" entryx="194" entryy="50" entryz="7" rent="0" townid="1" size="30"/>
-  <house name="Blood House XX" houseid="137" entryx="202" entryy="39" entryz="7" rent="0" townid="1" size="25"/>
-  <house name="Blood House XXI" houseid="139" entryx="209" entryy="39" entryz="7" rent="0" townid="1" size="30"/>
+  <house name="Blood House I" houseid="129" entryx="189" entryy="34" entryz="7" rent="0" townid="1" size="42"/>
+  <house name="Blood House V" houseid="133" entryx="194" entryy="50" entryz="7" rent="0" townid="1" size="28"/>
+  <house name="Blood House XX" houseid="137" entryx="202" entryy="39" entryz="7" rent="0" townid="1" size="23"/>
+  <house name="Blood House XXI" houseid="139" entryx="209" entryy="39" entryz="7" rent="0" townid="1" size="28"/>
   <house name="Blood House XXII" houseid="140" entryx="210" entryy="39" entryz="6" rent="0" townid="1" size="30"/>
   <house name="Blood House XXIII" houseid="141" entryx="201" entryy="39" entryz="6" rent="0" townid="1" size="25"/>
   <house name="15181" houseid="209" entryx="104" entryy="732" entryz="7" rent="0" townid="0" size="25"/>
@@ -119,23 +119,23 @@
   <house name="Tiquanda IX" houseid="1400" entryx="151" entryy="207" entryz="7" rent="0" townid="3" size="30"/>
   <house name="Tiquanda XII" houseid="1403" entryx="151" entryy="186" entryz="7" rent="0" townid="3" size="27"/>
   <house name="Blood House XXXXX" houseid="1404" entryx="189" entryy="74" entryz="7" rent="0" townid="1" size="20"/>
-  <house name="Blood House XV8" houseid="1405" entryx="176" entryy="34" entryz="7" rent="0" townid="1" size="30"/>
-  <house name="Blood House Pl" houseid="1406" entryx="174" entryy="29" entryz="7" rent="0" townid="1" size="20"/>
-  <house name="Blood House Xv4" houseid="1407" entryx="163" entryy="37" entryz="7" rent="0" townid="1" size="43"/>
-  <house name="Blood House Legas." houseid="1408" entryx="157" entryy="37" entryz="7" rent="0" townid="1" size="43"/>
+  <house name="Blood House XV8" houseid="1405" entryx="176" entryy="34" entryz="7" rent="0" townid="1" size="28"/>
+  <house name="Blood House Pl" houseid="1406" entryx="174" entryy="29" entryz="7" rent="0" townid="1" size="18"/>
+  <house name="Blood House Xv4" houseid="1407" entryx="163" entryy="37" entryz="7" rent="0" townid="1" size="41"/>
+  <house name="Blood House Legas." houseid="1408" entryx="157" entryy="37" entryz="7" rent="0" townid="1" size="41"/>
   <house name="12" houseid="1666" entryx="156" entryy="55" entryz="7" rent="0" townid="0" size="53"/>
   <house name="091" houseid="1674" entryx="165" entryy="47" entryz="7" rent="0" townid="0" size="24"/>
-  <house name="19198" houseid="1699" entryx="174" entryy="45" entryz="7" rent="0" townid="0" size="69"/>
+  <house name="19198" houseid="1699" entryx="174" entryy="45" entryz="7" rent="0" townid="0" size="67"/>
   <house name="185194" houseid="1700" entryx="176" entryy="46" entryz="7" rent="0" townid="0" size="80"/>
-  <house name="1561851" houseid="1701" entryx="176" entryy="47" entryz="7" rent="0" townid="0" size="52"/>
-  <house name="Blood House XX9" houseid="1711" entryx="153" entryy="63" entryz="7" rent="0" townid="0" size="32"/>
-  <house name="Blood House Pits" houseid="1712" entryx="151" entryy="69" entryz="7" rent="0" townid="0" size="30"/>
-  <house name="Blood City XX2" houseid="1713" entryx="155" entryy="63" entryz="7" rent="0" townid="0" size="32"/>
-  <house name="Blood House XX99" houseid="1714" entryx="161" entryy="72" entryz="7" rent="0" townid="0" size="30"/>
-  <house name="Blood House 106" houseid="1715" entryx="146" entryy="62" entryz="6" rent="0" townid="1" size="57"/>
-  <house name="Blood 156" houseid="1716" entryx="130" entryy="31" entryz="5" rent="0" townid="1" size="84"/>
-  <house name="Blood 262" houseid="1717" entryx="158" entryy="65" entryz="6" rent="0" townid="1" size="59"/>
-  <house name="Blood 451" houseid="1718" entryx="157" entryy="69" entryz="6" rent="0" townid="1" size="58"/>
+  <house name="1561851" houseid="1701" entryx="176" entryy="47" entryz="7" rent="0" townid="0" size="50"/>
+  <house name="Blood House XX9" houseid="1711" entryx="153" entryy="63" entryz="7" rent="0" townid="0" size="30"/>
+  <house name="Blood House Pits" houseid="1712" entryx="151" entryy="69" entryz="7" rent="0" townid="0" size="28"/>
+  <house name="Blood City XX2" houseid="1713" entryx="155" entryy="63" entryz="7" rent="0" townid="0" size="30"/>
+  <house name="Blood House XX99" houseid="1714" entryx="161" entryy="72" entryz="7" rent="0" townid="0" size="28"/>
+  <house name="Blood House 106" houseid="1715" entryx="146" entryy="62" entryz="6" rent="0" townid="1" size="55"/>
+  <house name="Blood 156" houseid="1716" entryx="130" entryy="31" entryz="5" rent="0" townid="1" size="82"/>
+  <house name="Blood 262" houseid="1717" entryx="158" entryy="65" entryz="6" rent="0" townid="1" size="57"/>
+  <house name="Blood 451" houseid="1718" entryx="157" entryy="69" entryz="6" rent="0" townid="1" size="56"/>
   <house name="Blood 51" houseid="1719" entryx="157" entryy="32" entryz="6" rent="0" townid="1" size="23"/>
   <house name="Blood 571" houseid="1720" entryx="164" entryy="35" entryz="6" rent="0" townid="1" size="35"/>
   <house name="Blood 47" houseid="1721" entryx="178" entryy="28" entryz="6" rent="0" townid="1" size="34"/>
@@ -160,11 +160,11 @@
   <house name="Depot House TOP" houseid="1740" entryx="115" entryy="56" entryz="6" rent="0" townid="1" size="49"/>
   <house name="Maconha I" houseid="1741" entryx="111" entryy="186" entryz="6" rent="0" townid="3" size="47"/>
   <house name="Aeww" houseid="1742" entryx="179" entryy="72" entryz="6" rent="0" townid="1" size="48"/>
-  <house name="Unnamed House #1743" houseid="1743" entryx="145" entryy="37" entryz="7" rent="0" townid="1" size="56"/>
-  <house name="Unnamed House #1744" houseid="1744" entryx="134" entryy="33" entryz="7" rent="0" townid="1" size="25"/>
+  <house name="Unnamed House #1743" houseid="1743" entryx="145" entryy="37" entryz="7" rent="0" townid="1" size="54"/>
+  <house name="Unnamed House #1744" houseid="1744" entryx="134" entryy="33" entryz="7" rent="0" townid="1" size="23"/>
   <house name="Unnamed House #1745" houseid="1745" entryx="150" entryy="30" entryz="6" rent="0" townid="1" size="54"/>
   <house name="Unnamed House #1746" houseid="1746" entryx="147" entryy="30" entryz="5" rent="0" townid="1" size="20"/>
-  <house name="Village Mall" houseid="1747" entryx="124" entryy="62" entryz="6" rent="0" townid="1" size="70"/>
+  <house name="Village Mall" houseid="1747" entryx="124" entryy="62" entryz="6" rent="0" townid="1" size="68"/>
   <house name="Unnamed House #1748" houseid="1748" entryx="0" entryy="0" entryz="0" rent="0" townid="1" size="55"/>
   <house name="Unnamed House #1749" houseid="1749" entryx="158" entryy="31" entryz="5" rent="0" townid="1" size="15"/>
   <house name="Unnamed House #1750" houseid="1750" entryx="165" entryy="31" entryz="5" rent="0" townid="1" size="15"/>

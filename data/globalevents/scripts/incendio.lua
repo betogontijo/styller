@@ -3,7 +3,7 @@ local premio = {
 }
 
 local configs = {
-        hours = 2, -- quantas em quantas horas, vai acontecer.
+        hours = 3, -- quantas em quantas horas, vai acontecer.
         winners = 1 -- qntos players podem ganhar.
 }
 

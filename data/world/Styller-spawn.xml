@@ -611,6 +611,11 @@
     <monster name="Warlock" x="3" y="4" z="5" spawntime="60"/>
   </spawn>
   <spawn centerx="194" centery="61" centerz="5" radius="1"/>
+  <spawn centerx="137" centery="72" centerz="5" radius="1">
+    <npc name="Crowley" x="0" y="-1" z="5" spawntime="20"/>
+    <monster name="spider" x="0" y="1" z="5" spawntime="60"/>
+    <monster name="spider" x="1" y="1" z="5" spawntime="60"/>
+  </spawn>
   <spawn centerx="449" centery="78" centerz="5" radius="1">
     <monster name="Hydra" x="0" y="0" z="5" spawntime="60"/>
   </spawn>
@@ -5157,16 +5162,6 @@
     <monster name="Lizard Templar" x="0" y="0" z="7" spawntime="60"/>
     <monster name="Lizard Templar" x="-5" y="4" z="7" spawntime="45"/>
   </spawn>
-  <spawn centerx="1353" centery="1029" centerz="7" radius="5">
-    <monster name="Acolyte Of the Cult" x="-1" y="-1" z="7" spawntime="60"/>
-    <monster name="Adept of the Cult" x="0" y="-1" z="7" spawntime="60"/>
-    <monster name="Adept of the Cult" x="1" y="-1" z="7" spawntime="60"/>
-  </spawn>
-  <spawn centerx="1374" centery="1029" centerz="7" radius="5">
-    <monster name="Adept of the Cult" x="0" y="-1" z="7" spawntime="60"/>
-    <monster name="Acolyte Of the Cult" x="1" y="-1" z="7" spawntime="60"/>
-    <monster name="Acolyte Of the Cult" x="1" y="1" z="7" spawntime="60"/>
-  </spawn>
   <spawn centerx="2779" centery="1029" centerz="7" radius="1">
     <monster name="Hellspawn" x="0" y="-1" z="7" spawntime="60"/>
     <monster name="Ghoul" x="0" y="0" z="7" spawntime="60"/>
@@ -9501,6 +9496,12 @@
   <spawn centerx="681" centery="1028" centerz="8" radius="3">
     <monster name="Giant Spider" x="-1" y="-1" z="8" spawntime="60"/>
   </spawn>
+  <spawn centerx="1362" centery="1028" centerz="8" radius="5">
+    <monster name="Acolyte Of the Cult" x="0" y="-4" z="8" spawntime="60"/>
+    <monster name="Adept of the Cult" x="-3" y="-3" z="8" spawntime="60"/>
+    <monster name="Acolyte Of the Cult" x="0" y="-3" z="8" spawntime="60"/>
+    <monster name="Adept of the Cult" x="2" y="-3" z="8" spawntime="60"/>
+  </spawn>
   <spawn centerx="693" centery="1029" centerz="8" radius="3">
     <monster name="Poison spider" x="1" y="-1" z="8" spawntime="60"/>
     <monster name="Poison spider" x="2" y="-1" z="8" spawntime="60"/>
@@ -11275,6 +11276,9 @@
   <spawn centerx="196" centery="44" centerz="9" radius="1">
     <monster name="Hydra" x="0" y="1" z="9" spawntime="20"/>
   </spawn>
+  <spawn centerx="200" centery="44" centerz="9" radius="1">
+    <monster name="Medusa" x="0" y="1" z="9" spawntime="60"/>
+  </spawn>
   <spawn centerx="208" centery="44" centerz="9" radius="1">
     <monster name="dragon lord hatchling" x="0" y="1" z="9" spawntime="60"/>
   </spawn>
@@ -11344,6 +11348,9 @@
   </spawn>
   <spawn centerx="518" centery="56" centerz="9" radius="1">
     <monster name="Demon" x="1" y="0" z="9" spawntime="60"/>
+  </spawn>
+  <spawn centerx="212" centery="57" centerz="9" radius="1">
+    <monster name="Ghazbaran" x="0" y="-1" z="9" spawntime="60"/>
   </spawn>
   <spawn centerx="537" centery="57" centerz="9" radius="1">
     <monster name="Demon" x="0" y="0" z="9" spawntime="60"/>
@@ -11688,8 +11695,8 @@
   <spawn centerx="151" centery="126" centerz="9" radius="10"/>
   <spawn centerx="192" centery="128" centerz="9" radius="1"/>
   <spawn centerx="181" centery="133" centerz="9" radius="20"/>
-  <spawn centerx="170" centery="136" centerz="9" radius="1"/>
   <spawn centerx="207" centery="136" centerz="9" radius="5"/>
+  <spawn centerx="170" centery="137" centerz="9" radius="1"/>
   <spawn centerx="213" centery="147" centerz="9" radius="5"/>
   <spawn centerx="76" centery="150" centerz="9" radius="1"/>
   <spawn centerx="83" centery="157" centerz="9" radius="1"/>
