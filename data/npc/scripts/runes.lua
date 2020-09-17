@@ -32,6 +32,7 @@ shopModule:addBuyableItem({'heavy magic missile'}, 2311, 120, 1, 'heavy magic mi
 shopModule:addBuyableItem({'great fireball'}, 2304, 180, 1, 'great fireball rune')
 shopModule:addBuyableItem({'explosion'}, 2313, 250, 1, 'explosion rune')
 shopModule:addBuyableItem({'sudden death'}, 2268, 95, 1, 'sudden death rune')
+shopModule:addBuyableItem({'firebomb'}, 2305, 95, 1, 'sudden death rune')
 shopModule:addBuyableItem({'paralyze'}, 2278, 700, 1, 'paralyze rune')
 shopModule:addBuyableItem({'animate dead'}, 2316, 375, 1, 'animate dead rune')
 shopModule:addBuyableItem({'convince creature'}, 2290, 80, 1, 'convince creature rune')
