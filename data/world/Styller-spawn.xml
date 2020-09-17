@@ -3000,6 +3000,9 @@
   <spawn centerx="101" centery="75" centerz="7" radius="1">
     <npc name="King Johnny" x="0" y="0" z="7" spawntime="60"/>
   </spawn>
+  <spawn centerx="207" centery="76" centerz="7" radius="1">
+    <npc name="Anderson" x="1" y="-1" z="7" spawntime="60"/>
+  </spawn>
   <spawn centerx="329" centery="76" centerz="7" radius="1">
     <monster name="Bonebeast" x="1" y="0" z="7" spawntime="60"/>
     <monster name="Lich" x="-1" y="1" z="7" spawntime="60"/>
@@ -3129,6 +3132,9 @@
   </spawn>
   <spawn centerx="368" centery="100" centerz="7" radius="1">
     <monster name="Nightstalker" x="0" y="-1" z="7" spawntime="60"/>
+  </spawn>
+  <spawn centerx="55" centery="101" centerz="7" radius="1">
+    <monster name="Warlock" x="-1" y="0" z="7" spawntime="60"/>
   </spawn>
   <spawn centerx="363" centery="101" centerz="7" radius="1">
     <monster name="Zombie" x="1" y="0" z="7" spawntime="60"/>
@@ -6518,6 +6524,9 @@
   <spawn centerx="487" centery="49" centerz="8" radius="5">
     <monster name="Quara Constrictor" x="-4" y="-4" z="8" spawntime="60"/>
     <monster name="Quara Predator" x="-2" y="2" z="8" spawntime="60"/>
+  </spawn>
+  <spawn centerx="191" centery="50" centerz="8" radius="1">
+    <npc name="Old Jeff" x="1" y="0" z="8" spawntime="60"/>
   </spawn>
   <spawn centerx="101" centery="52" centerz="8" radius="5">
     <monster name="Rotworm" x="4" y="0" z="8" spawntime="60"/>
@@ -11613,6 +11622,7 @@
     <monster name="Scorpion" x="67" y="20" z="9" spawntime="60"/>
     <monster name="Demon Skeleton" x="12" y="22" z="9" spawntime="60"/>
     <monster name="Warlock" x="27" y="22" z="9" spawntime="60"/>
+    <npc name="A Ghostly Sage" x="40" y="22" z="9" spawntime="60"/>
     <monster name="Warlock" x="28" y="25" z="9" spawntime="60"/>
     <monster name="Warlock" x="32" y="25" z="9" spawntime="60"/>
     <monster name="Fire Devil" x="15" y="26" z="9" spawntime="60"/>
@@ -11671,6 +11681,7 @@
   <spawn centerx="188" centery="95" centerz="9" radius="1"/>
   <spawn centerx="175" centery="99" centerz="9" radius="1"/>
   <spawn centerx="147" centery="100" centerz="9" radius="8"/>
+  <spawn centerx="93" centery="101" centerz="9" radius="1"/>
   <spawn centerx="173" centery="116" centerz="9" radius="1"/>
   <spawn centerx="185" centery="118" centerz="9" radius="1"/>
   <spawn centerx="145" centery="120" centerz="9" radius="10"/>
