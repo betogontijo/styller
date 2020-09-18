@@ -1,4 +1,3 @@
-
 local config = {
     min = 5000,        -- Valor Minimo da Aposta
     max = 1000000,     -- Valor Máximo da Aposta
