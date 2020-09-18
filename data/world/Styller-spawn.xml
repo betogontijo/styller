@@ -604,9 +604,6 @@
   <spawn centerx="121" centery="58" centerz="5" radius="1">
     <npc name="Mad" x="-1" y="-1" z="5" spawntime="60"/>
   </spawn>
-  <spawn centerx="126" centery="58" centerz="5" radius="1">
-    <npc name="Cassino" x="1" y="-1" z="5" spawntime="60"/>
-  </spawn>
   <spawn centerx="61" centery="59" centerz="5" radius="5">
     <monster name="Warlock" x="-3" y="4" z="5" spawntime="60"/>
     <monster name="Warlock" x="-1" y="4" z="5" spawntime="60"/>
