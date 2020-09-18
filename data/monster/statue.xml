@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <monster name="Protect Statue" nameDescription="a Protect Statue" race="undead" experience="15000" speed="0" manacost="0">
-<health now="100000" max="100000"/>
+<health now="50000" max="50000"/>
 <look typeex="11720"/>
 <targetchange interval="5000" chance="20"/>
 <strategy attack="100" defense="0"/>
