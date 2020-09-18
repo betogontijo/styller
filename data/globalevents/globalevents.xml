@@ -12,7 +12,7 @@
 
 <globalevent name="Info3" interval="500000" event="script" value="info3.lua"/>
 <globalevent name="Info2" interval="1000000" event="script" value="info2.lua"/>
-<globalevent name="tpfalante" interval="50000" script="tpfalante.lua" />
+<globalevent name="tpfalante" interval="60" script="tpfalante.lua" />
 <globalevent name="offtrain_add_minutes" interval="60000" event="script" value="offtrain_addMinutes.lua"/>	<globalevent name="start_woe" interval="3000000" event="script" value="start_woe.lua"/>
 		<globalevent name="Guardias" interval="1000" event="script" value="guardias.lua"/>	<!-- <globalevent name="timer_example" time="21:35" event="script" value="my_script.lua"/> -->
 	
