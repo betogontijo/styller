@@ -72,6 +72,7 @@
     <item id="9971" chance="5500"/> --Gold ingot
     <item id="7590" chance="11500"/> --GMP
     <item id="7591" chance="12500"/> --GHP
+	<item id="8902" chance="1300"/><!-- spellbook of mind control -->
 	<item id="7891" chance="500"/> -- Magma boots
 	<item id="5904" chance="9000"/> --MAgic sulphur
     <item id="1987" chance="100000"> -- Bag
